@@ -152,6 +152,11 @@ php artisan view:cache
 - Rotate API/payment secrets before production cutover.
 - Keep dependencies updated and monitor package advisories.
 
+## 📬 Contact
+For any questions or concerns, please contact us at [abdotaher093@gmail.com](mailto:abdotaher093@gmail.com).
+
+## Developed by [عبدالرحمن طاهر](https://abdotaher.me/) — Laravel & Database Developer.
+
 ## License
 
 This project is licensed under the MIT License unless your organization policy defines a different license for this repository.
